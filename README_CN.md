@@ -37,4 +37,4 @@
 ---
 
 - cr.:foozhencheng
-- addr.:[疫情】【技术】【征集】【倡议】CS/DS/ML/DL能为对抗疫情做什么？](https://chaoli.club/index.php/4961)
+- addr.:[【疫情】【技术】【征集】【倡议】CS/DS/ML/DL能为对抗疫情做什么？](https://chaoli.club/index.php/4961)
