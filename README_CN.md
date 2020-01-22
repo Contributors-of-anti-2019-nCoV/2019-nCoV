@@ -1,11 +1,6 @@
 [2019-nCoV](https://github.com/Contributors-of-anti-2019-nCoV/2019-nCoV)
 =======
-
 * [English version](./README.md)
----
-
-什么是2019-nCoV
----
 
 2019新型冠状病毒（2019 Novel coronavirus (2019-nCoV)，世界卫生组织定义），又名武汉冠状病毒（Wuhan coronavirus）、武汉海鲜市场肺炎病毒（Wuhan seafood market pneumonia virus），因2019年武汉病毒性肺炎病例而被发现，2020年1月12日被世界卫生组织命名。
 
