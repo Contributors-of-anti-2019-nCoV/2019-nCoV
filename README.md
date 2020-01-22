@@ -4,7 +4,7 @@
 
 [中文版](./README_CN.md)
 
-Novel coronavirus, denoted 2019-nCoV by the WHO on January 12nd, 2020, and also known as Wuhan coronavirus, Wuhan seafood market pneumonia virus and Wuhan pneumonia, is a RNA coronavirus first reported in 2019. The virus was genomically sequenced after nucleic acid testing on a positive patient sample in a patient with pneumonia during the 2019–2020 Wuhan pneumonia outbreak.
+Novel coronavirus, denoted 2019-nCoV by the WHO on January 12, 2020, and also known as Wuhan coronavirus, Wuhan seafood market pneumonia virus and Wuhan pneumonia, is a RNA coronavirus first reported in 2019. The virus was genomically sequenced after nucleic acid testing on a positive patient sample in a patient with pneumonia during the 2019–2020 Wuhan pneumonia outbreak.
 
 No specific treatment for the new virus is currently available, but existing anti-virals could be repurposed.
 
