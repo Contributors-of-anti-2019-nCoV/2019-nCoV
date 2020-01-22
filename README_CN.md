@@ -36,8 +36,8 @@
 项目来源
 ---
 
-- cr.:foozhencheng
-- addr.:[【疫情】【技术】【征集】【倡议】CS/DS/ML/DL能为对抗疫情做什么？](https://chaoli.club/index.php/4961)
+- cr.: foozhencheng
+- addr.: [【疫情】【技术】【征集】【倡议】CS/DS/ML/DL能为对抗疫情做什么？](https://chaoli.club/index.php/4961)
 
 ### 授权许可
-本项目采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可。
+本项目采用 知识共享-署名-非商业性使用-相同方式共享 4.0 协议进行许可。
