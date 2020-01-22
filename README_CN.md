@@ -1,6 +1,8 @@
 [2019-nCoV](https://github.com/Contributors-of-anti-2019-nCoV/2019-nCoV)
 =======
-* [English version](./README.md)
+[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
+
+[English version](./README.md)
 
 2019新型冠状病毒（2019 Novel coronavirus (2019-nCoV)，世界卫生组织定义），又名武汉冠状病毒（Wuhan coronavirus）、武汉海鲜市场肺炎病毒（Wuhan seafood market pneumonia virus），因2019年武汉病毒性肺炎病例而被发现，2020年1月12日被世界卫生组织命名。
 
@@ -36,3 +38,6 @@
 
 - cr.:foozhencheng
 - addr.:[【疫情】【技术】【征集】【倡议】CS/DS/ML/DL能为对抗疫情做什么？](https://chaoli.club/index.php/4961)
+
+### 授权许可
+本项目采用知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议进行许可。
