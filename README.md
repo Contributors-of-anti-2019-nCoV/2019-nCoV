@@ -1,5 +1,6 @@
 [2019-nCoV](https://github.com/Contributors-of-anti-2019-nCoV/2019-nCoV)
 =======
+[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
 [中文版](./README_CN.md)
 
@@ -36,5 +37,8 @@ Project Origin
 About
 ---
 
-- cr.:foozhencheng
-- addr.:[【疫情】【技术】【征集】【倡议】CS/DS/ML/DL能为对抗疫情做什么？](https://chaoli.club/index.php/4961)
+- cr.: foozhencheng
+- addr.: [【疫情】【技术】【征集】【倡议】CS/DS/ML/DL能为对抗疫情做什么？](https://chaoli.club/index.php/4961)
+
+### License  
+This repository is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
