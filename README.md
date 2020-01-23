@@ -14,7 +14,7 @@ News
 ---
 
 - National Health Commission of People's Republic of China：[新型冠状病毒感染的肺炎疫情防控](http://www.nhc.gov.cn/xcs/xxgzbd/new_list.shtml)
-- Health Commission of Wuhan City: [公示公告](http://wjw.wuhan.gov.cn/front/web/list2nd/no/710)
+- Wuhan Municipal Health Commission: [公示公告](http://wjw.wuhan.gov.cn/front/web/list2nd/no/710)
 - World Health Organization: [Disease Outbreak News (DONs)](https://www.who.int/csr/don/en/)
 
 Daily Protection
