@@ -17,6 +17,10 @@
 - 武汉市卫生健康委员会：[公示公告](http://wjw.wuhan.gov.cn/front/web/list2nd/no/710)
 - 世界卫生组织：[Disease Outbreak News (DONs)](https://www.who.int/csr/don/en/)
 
+非官方信息公开
+---
+- 丁香园 - 丁香医生: [全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579578460&enterid=1579578460&from=timeline&isappinstalled=0)
+
 我在日常生活能做什么
 ---
 

@@ -8,7 +8,7 @@ Novel coronavirus, [2019-nCoV](https://en.wikipedia.org/wiki/2019-nCoV), also kn
 
 No specific treatment is currently available, but the existing anti-virals could be repurposed.
 
-Approved by the State Council，National Health Commission of China issued Announcement No. 1 of 2020 on January 20, 2020, which included pneumonia infected by the new coronavirus into a Class B infectious disease and managed as a Class A.
+Approved by the State Council, National Health Commission of China issued Announcement No. 1 of 2020 on January 20, 2020, which included pneumonia infected by the new coronavirus into a Class B infectious disease and managed as a Class A.
 
 Official Source
 ---
@@ -16,6 +16,10 @@ Official Source
 - National Health Commission of People's Republic of China：[新型冠状病毒感染的肺炎疫情防控](http://www.nhc.gov.cn/xcs/xxgzbd/new_list.shtml)
 - Wuhan Municipal Health Commission: [公示公告](http://wjw.wuhan.gov.cn/front/web/list2nd/no/710)
 - World Health Organization: [Disease Outbreak News (DONs)](https://www.who.int/csr/don/en/)
+
+Unofficial Source
+---
+- 丁香园 - 丁香医生: [Chinese Wuhan-pneumonia situation in real time](https://3g.dxy.cn/newh5/view/pneumonia?scene=2&clicktime=1579578460&enterid=1579578460&from=timeline&isappinstalled=0)  (In Chinese)
 
 How to Prevent
 ---
